@@ -1,0 +1,6 @@
+C:\Users\omere\source\repos\BIL2002Assignment_2\bin\Debug\BIL2002Assignment_2.exe.config
+C:\Users\omere\source\repos\BIL2002Assignment_2\bin\Debug\BIL2002Assignment_2.exe
+C:\Users\omere\source\repos\BIL2002Assignment_2\bin\Debug\BIL2002Assignment_2.pdb
+C:\Users\omere\source\repos\BIL2002Assignment_2\obj\Debug\BIL2002Assignment_2.csprojAssemblyReference.cache
+C:\Users\omere\source\repos\BIL2002Assignment_2\obj\Debug\BIL2002Assignment_2.exe
+C:\Users\omere\source\repos\BIL2002Assignment_2\obj\Debug\BIL2002Assignment_2.pdb
